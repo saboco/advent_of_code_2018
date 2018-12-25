@@ -2,7 +2,7 @@
 source https://api.nuget.org/v3/index.json
 nuget FSharpx.Extras"
 
-#load ".fake/04 Reponse Record.fsx/intellisense.fsx"
+#load @".fake\Day04.fsx\intellisense.fsx"
 
 open System
 open FSharpx.Collections
